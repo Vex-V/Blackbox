@@ -1,7 +1,8 @@
 # Blackbox
 <h2>INTRODUCTION</h2>
 
-A python recreation of the 1970s boardgame by Eric Solomon, it is an abstract strategy game where players must shoot a ray into a black box and deduce the locations of atoms inside it based on deflections and exit squares, [Wikipedia link](https://en.wikipedia.org/wiki/Black_Box_(game))
+A python recreation of the 1970s boardgame by Eric Solomon, it is an abstract strategy game where players must shoot a ray into a black box and deduce the locations of atoms inside it based on deflections and exit squares, [Wikipedia link](https://en.wikipedia.org/wiki/Black_Box_(game)) 
+<br>
 The number of atoms consecutively increase every round and the player must finish 5 rounds to win, the player loses if the exceed the total number of allowed guesses for that round
 
 <h2>REQUIREMENTS</h2>

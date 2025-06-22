@@ -35,4 +35,10 @@ after this, 3 possibilites can occur,
 - The clicked on square turns dark green, this means the ray exited on the entry square initially clicked on 
 - No exit square occurs, this means the ray directly hit an atom and not any of its edges
 
+A "How to Play" Button contains all neccesary information that a new player would need 
+<br>
+There are also in-built button to let a user try to play the game again should they lose, resetting the game entirely
+<br>
+A quit button provides an easy way to directly quit
+<br>
 Thanks to [Himashree](https://github.com/hperumalla-oops) For QA testing and feedback.
